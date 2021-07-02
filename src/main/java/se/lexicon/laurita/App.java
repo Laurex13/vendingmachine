@@ -1,13 +1,7 @@
 package se.lexicon.laurita;
 
-import java.util.Scanner;
-
 /**
  * Hello world!
  *
  */
-public class App 
-{
-
-
-        }
+public class App {  }
